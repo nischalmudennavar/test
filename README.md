@@ -1,4 +1,4 @@
-# project Jonas ⏳
+# Project Jonas ⏳ 🏃‍♂️
 
 ### the language will be python 🐍
 ### OpenCV 
